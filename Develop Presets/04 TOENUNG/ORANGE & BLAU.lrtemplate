@@ -1,0 +1,19 @@
+s = {
+	id = "750FF194-6FDB-479B-855B-09A7C3E7C62F",
+	internalName = "ORANGE & BLAU",
+	title = "ORANGE & BLAU",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 35,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 215,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "4F17966B-B8ED-4C98-9743-C679541B9075",
+	},
+	version = 0,
+}

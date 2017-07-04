@@ -1,0 +1,18 @@
+s = {
+	id = "5095BD25-08FC-47C2-8D9A-CFBAF7A52AE6",
+	internalName = "SCHÄRFEN",
+	title = "SCHÄRFEN",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 70,
+			SharpenEdgeMasking = 60,
+			SharpenRadius = 1,
+			Sharpness = 80,
+		},
+		uuid = "A891D9F0-4984-4511-A2A6-97C1463F93F2",
+	},
+	version = 0,
+}

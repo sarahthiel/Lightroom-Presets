@@ -1,0 +1,17 @@
+s = {
+	id = "A9D1611C-734C-4CB5-8656-C9B0DE9D3ACE",
+	internalName = "KORN LEICHT",
+	title = "KORN (LEICHT)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 30,
+			GrainFrequency = 50,
+			GrainSize = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "8F84AE88-2462-4A67-9FDC-6BF9EAD80DBF",
+	},
+	version = 0,
+}

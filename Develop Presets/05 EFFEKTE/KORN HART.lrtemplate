@@ -1,0 +1,17 @@
+s = {
+	id = "DC8691CD-9A57-4BB8-AC46-FFD42166F6D3",
+	internalName = "KORN HART",
+	title = "KORN (HART)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 90,
+			GrainFrequency = 40,
+			GrainSize = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "168061E9-5FFC-47C6-B345-73101EF0AEA6",
+	},
+	version = 0,
+}

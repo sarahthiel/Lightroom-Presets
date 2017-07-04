@@ -1,0 +1,19 @@
+s = {
+	id = "310D2AD5-EC02-4F64-BD05-DBE686004E65",
+	internalName = "VINTAGE",
+	title = "VINTAGE",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 10,
+			SplitToningHighlightHue = 45,
+			SplitToningHighlightSaturation = 50,
+			SplitToningShadowHue = 20,
+			SplitToningShadowSaturation = 5,
+		},
+		uuid = "58A8421A-C809-446F-B0BB-6AD25DF8AA52",
+	},
+	version = 0,
+}

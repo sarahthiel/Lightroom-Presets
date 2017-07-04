@@ -1,0 +1,17 @@
+s = {
+	id = "D25C2A0C-B5C2-4F23-8806-9820067C1F73",
+	internalName = "HARD",
+	title = "HARD",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -40,
+			Highlights2012 = -45,
+			ProcessVersion = "6.7",
+			Shadows2012 = 60,
+			Whites2012 = 30,
+		},
+		uuid = "15DB8447-396F-49BE-9FC8-E6866686BF6F",
+	},
+	version = 0,
+}

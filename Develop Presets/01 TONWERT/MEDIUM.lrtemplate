@@ -1,0 +1,17 @@
+s = {
+	id = "2A8BB954-26DB-4AA4-BB89-C168A7BDBF2F",
+	internalName = "MEDIUM",
+	title = "MEDIUM",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -5,
+			Highlights2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 30,
+			Whites2012 = 10,
+		},
+		uuid = "EDA4D147-71F3-4BC6-81BF-6C0EB39EF167",
+	},
+	version = 0,
+}

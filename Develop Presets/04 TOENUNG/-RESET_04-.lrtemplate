@@ -1,0 +1,19 @@
+s = {
+	id = "CBFB0DA9-5DB1-4509-A280-E57839F5FB4D",
+	internalName = "[RESET 04]",
+	title = "[RESET 04]",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "F9596C8D-5B01-4E68-A2D1-91608C1C7179",
+	},
+	version = 0,
+}

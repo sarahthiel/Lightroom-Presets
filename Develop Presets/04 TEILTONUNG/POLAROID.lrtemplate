@@ -1,0 +1,19 @@
+s = {
+	id = "CB93BAD2-37BE-498F-BE47-79B3D9EE4C27",
+	internalName = "POLAROID",
+	title = "POLAROID",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 50,
+			SplitToningHighlightSaturation = 10,
+			SplitToningShadowHue = 90,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "D5AD9D9F-4C5D-409F-A596-32C9790E30EE",
+	},
+	version = 0,
+}

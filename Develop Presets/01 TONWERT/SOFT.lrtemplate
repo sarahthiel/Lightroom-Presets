@@ -1,0 +1,17 @@
+s = {
+	id = "3D8F3D25-1B06-427B-9E2F-9EE6B167B8E6",
+	internalName = "SOFT",
+	title = "SOFT",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 15,
+			Highlights2012 = -50,
+			ProcessVersion = "6.7",
+			Shadows2012 = 30,
+			Whites2012 = -45,
+		},
+		uuid = "395EB9BD-6080-4A8C-A479-B0CF5318AEFD",
+	},
+	version = 0,
+}

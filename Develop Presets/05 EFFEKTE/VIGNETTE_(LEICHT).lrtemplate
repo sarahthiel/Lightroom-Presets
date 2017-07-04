@@ -1,0 +1,20 @@
+s = {
+	id = "C7E1E232-23AB-4025-B04D-6FAB576C0A80",
+	internalName = "VIGNETTE (LEICHT)",
+	title = "VIGNETTE (LEICHT)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -15,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DF332212-12F7-4DD3-8845-20FB04D65FDD",
+	},
+	version = 0,
+}

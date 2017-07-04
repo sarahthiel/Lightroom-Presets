@@ -1,0 +1,19 @@
+s = {
+	id = "54608C9F-BD4D-438F-8193-06B860D16314",
+	internalName = "WARM",
+	title = "WARM",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 45,
+			SplitToningHighlightSaturation = 10,
+			SplitToningShadowHue = 45,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "7D7535D4-9588-476B-AF43-F329F990CE10",
+	},
+	version = 0,
+}

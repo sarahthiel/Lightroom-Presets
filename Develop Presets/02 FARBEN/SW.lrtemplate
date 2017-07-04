@@ -1,0 +1,23 @@
+s = {
+	id = "2FDA802F-FCFC-4E60-AFBA-65D230AE45C4",
+	internalName = "SW",
+	title = "SW",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -20,
+			GrayMixerBlue = 10,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -20,
+			GrayMixerPurple = 20,
+			GrayMixerRed = -10,
+			GrayMixerYellow = -20,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6BA6B342-EA10-4396-9831-66A68A5FC552",
+	},
+	version = 0,
+}

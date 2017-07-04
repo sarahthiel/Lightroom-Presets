@@ -1,0 +1,19 @@
+s = {
+	id = "A41B9F43-4859-4C4F-9443-B033ABC052B7",
+	internalName = "KALT",
+	title = "KALT",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 220,
+			SplitToningHighlightSaturation = 10,
+			SplitToningShadowHue = 220,
+			SplitToningShadowSaturation = 40,
+		},
+		uuid = "3CDE9BBC-3303-4FFD-8334-DEC35E1A90F5",
+	},
+	version = 0,
+}

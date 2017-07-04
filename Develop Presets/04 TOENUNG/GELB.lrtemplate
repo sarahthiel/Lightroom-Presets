@@ -1,0 +1,19 @@
+s = {
+	id = "ABFD9BFB-668F-4304-BAC3-19265571C2A8",
+	internalName = "GELB",
+	title = "GELB",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 50,
+			SplitToningHighlightSaturation = 25,
+			SplitToningShadowHue = 50,
+			SplitToningShadowSaturation = 25,
+		},
+		uuid = "4C3D9676-5109-4CE7-80B8-A63DEB6D5AED",
+	},
+	version = 0,
+}

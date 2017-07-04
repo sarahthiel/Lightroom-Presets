@@ -1,0 +1,17 @@
+s = {
+	id = "BC54B50C-026B-49EF-B04C-4EBAD6D9DC6B",
+	internalName = "[RESET 01]",
+	title = "[RESET 01]",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Highlights2012 = 0,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+			Whites2012 = 0,
+		},
+		uuid = "59B7D7F6-DC32-40ED-9557-A7EF94FCBB87",
+	},
+	version = 0,
+}

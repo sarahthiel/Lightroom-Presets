@@ -1,0 +1,26 @@
+s = {
+	id = "EB263F04-FA1F-4B82-AF1B-FE50F77CCE1F",
+	internalName = "OBJEKTIVKORREKTUREN",
+	title = "OBJEKTIVKORREKTUREN",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoLateralCA = 1,
+			ChromaticAberrationB = 0,
+			ChromaticAberrationR = 0,
+			Defringe = 0,
+			DefringeGreenAmount = 0,
+			DefringeGreenHueHi = 60,
+			DefringeGreenHueLo = 40,
+			DefringePurpleAmount = 0,
+			DefringePurpleHueHi = 70,
+			DefringePurpleHueLo = 30,
+			EnableLensCorrections = true,
+			LensProfileEnable = 1,
+			LensProfileSetup = "Auto",
+			ProcessVersion = "6.7",
+		},
+		uuid = "7C215123-863C-4356-A575-3EB31E436F98",
+	},
+	version = 0,
+}
